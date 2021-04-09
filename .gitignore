@@ -1,3 +1,9 @@
+**.DS_Store
+**.aux
+**.fdb_latexmk
+**fls
+**.log
+**.synctex.gz
 _site
 .sass-cache
 Gemfile.lock
