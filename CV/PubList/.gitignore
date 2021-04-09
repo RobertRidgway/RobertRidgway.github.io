@@ -1,0 +1,15 @@
+**.DS_Store
+**.aux
+**.out
+**.bbl
+**.blg
+**.log
+**.fdb_latexmk
+**fls
+**.log
+*.pdf
+**.synctex.gz
+_site
+.sass-cache
+Gemfile.lock
+*.gem
