@@ -1,6 +1,8 @@
 # Robert Ridgway's Publications
 
+## CV
 
+Click [here](https://RobertRidgway.github.io/CV/robert_ridgway_cv.pdf) to download Robert Ridgway's Academic CV.
 
 ## Education
 
