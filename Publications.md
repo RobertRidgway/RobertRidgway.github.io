@@ -34,6 +34,8 @@ Jake K. Eager, David J. Reichelt, Nathan J. Mayne, F. Hugo Lambert, Denis E. Ser
 
 ## Talks and Conferences
 
+December 2021, American Geophysical Union (AGU) Fall Meeting, Contributed [Poster](./Posters/2021/AGU_Poster_2021_Ridgway.pdf)
+
 April 2021, UK Exoplanet Community Meeting (UKEXOM) 2021, Contributed [Talk](https://exoplanet-talks.org/talk/334)
 
 December 2016, American Geophysical Union (AGU) Fall Meeting, Contributed [Poster](./Posters/2016/AGU_Poster_Ridgway.pdf)
