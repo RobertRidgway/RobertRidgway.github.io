@@ -14,7 +14,8 @@ BSc (Honours) in Astrophysics, First Class Honours, University of Calgary, 2011-
 
 ## First Author Publications
 
-Coming soon!
+**Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, James Manners, Francis H. Lambert, Marrick Braam, Benjamin Drummond, Eric Hebrard, Paul I. Palmer, and Krisztian Kohary.
+3D modelling of the impact of stellar activity on tidally--locked terrestrial exoplanets: atmospheric composition & habitability, (in prep)
 
 ## Co-Author Publications
 
