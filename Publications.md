@@ -19,6 +19,9 @@ BSc (Honours) in Astrophysics, First Class Honours, University of Calgary, 2011-
 
 ## Co-Author Publications
 
+Marrick Braam, Paul I. Palmer, Leen Decin, **Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, Denis Sergeev, and N. Luke Abraham
+Lightning-induced chemistry on tidally-locked Earth-like exoplanets. Monthly Notices of the Royal Astronomical Society, (submitted)
+
 Benjamin Drummond, Eric Hebrard, Nathan J. Mayne, Olivia Venot, **Robert J. Ridgway**, Quentin Changeat, Shang-Min Tsai, James Manners, Pascal Tremblin, Nathan Luke Abraham, David Sing, and Krisztian Kohary. 
 Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model. Astronomy & Astrophysics, 
 636:A68, April 2020. ISSN 0004-6361. doi:[10.1051/0004-6361/201937153](https://doi.org/10.1051/0004-6361/201937153)
