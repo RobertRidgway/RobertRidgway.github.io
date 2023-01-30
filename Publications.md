@@ -14,13 +14,13 @@ BSc (Honours) in Astrophysics, First Class Honours, University of Calgary, 2011-
 
 ## First Author Publications
 
-**Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, James Manners, Francis H. Lambert, Marrick Braam, Benjamin Drummond, Eric Hebrard, Paul I. Palmer, and Krisztian Kohary.
-3D modelling of the impact of stellar activity on tidally--locked terrestrial exoplanets: atmospheric composition & habitability, (in prep)
+**Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, James Manners, Francis H. Lambert, Marrick Braam, Benjamin Drummond, Eric H\ebrard, Paul I. Palmer, and Krisztian Kohary.
+3D modelling of the impact of stellar activity on tidally-locked terrestrial exoplanets: atmospheric composition and habitability, Monthly Notices of the Royal Astronomical Society, 518, 2472, November 2022, ISSN 0035-8711, doi:[10.1093/mnras/stac3105](https://doi.org/10.1093/mnras/stac3105)
 
 ## Co-Author Publications
 
 Marrick Braam, Paul I. Palmer, Leen Decin, **Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, Denis Sergeev, and N. Luke Abraham
-Lightning-induced chemistry on tidally-locked Earth-like exoplanets. Monthly Notices of the Royal Astronomical Society, (submitted)
+Lightning-induced chemistry on tidally-locked Earth-like exoplanets. Monthly Notices of the Royal Astronomical Society, 186, 227, September 2022, ISSN 0035-8711, doi:[10.1093/mnras/stac2722](https://doi.org/10.1093/mnras/mnras/stac2722)
 
 Benjamin Drummond, Eric Hebrard, Nathan J. Mayne, Olivia Venot, **Robert J. Ridgway**, Quentin Changeat, Shang-Min Tsai, James Manners, Pascal Tremblin, Nathan Luke Abraham, David Sing, and Krisztian Kohary. 
 Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model. Astronomy & Astrophysics, 
@@ -37,6 +37,8 @@ Jake K. Eager, David J. Reichelt, Nathan J. Mayne, F. Hugo Lambert, Denis E. Ser
 
 
 ## Talks and Conferences
+
+September 2022, UK Exoplanet Community Meeting (UKEXOM) 2022, Contributed Talk
 
 July 2022, Rocky Worlds II, Contributed [Poster](./Posters/2022/RockyWorlds_Poster_2022_Ridgway.pdf)
 
