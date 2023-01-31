@@ -3,7 +3,7 @@
 
 ## Profile
 
-I'm a final year PhD student (finishing in 2022) studying at the University of Exeter, under the supervision of Nathan Mayne, Hugo Lambert, and James Manners. My primary research interests are in exoplanet climatology, particularly star-planet interactions. 
+I'm a final year PhD student (finishing in March 2023) studying at the University of Exeter, under the supervision of Nathan Mayne, Hugo Lambert, James Manners, and Maria Zamyatina. My primary research interests are in exoplanet climatology, particularly star-planet interactions. 
 
 
 In 2015, I graduated from the University of Calgary receieving a BSc in Astrophysics. In 2018 I recieved a Master's in Space Physics also at the University of Calgary under the supervision of Brian Jackel. I was working with data from space-based magnetometers to create density profiles of plasma within the dayside terrestrial magnetosphere. This was an extension of the work done during my undergraduate thesis. I presented my work (in the form of a poster) at the 2015 Canadian Association of Physicists (CAP) Congress and the 2016 American Geophysical Union Fall (AGU) Meeting.
