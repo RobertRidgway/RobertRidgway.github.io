@@ -6,7 +6,7 @@ Click [here](https://RobertRidgway.github.io/CV/robert_ridgway_cv.pdf) to downlo
 
 ## Education
 
-PhD in Physics, University of Exeter, 2018-Present
+PhD in Physics, University of Exeter, 2018-2023
 
 MSc in Space Physics, University of Calgary, 2015-2018 
 
@@ -22,7 +22,7 @@ BSc (Honours) in Astrophysics, First Class Honours, University of Calgary, 2011-
 Marrick Braam, Paul I. Palmer, Leen Decin, **Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, Denis Sergeev, and N. Luke Abraham
 Lightning-induced chemistry on tidally-locked Earth-like exoplanets. Monthly Notices of the Royal Astronomical Society, 186, 227, September 2022, ISSN 0035-8711, doi:[10.1093/mnras/stac2722](https://doi.org/10.1093/mnras/mnras/stac2722)
 
-Benjamin Drummond, Eric Hebrard, Nathan J. Mayne, Olivia Venot, **Robert J. Ridgway**, Quentin Changeat, Shang-Min Tsai, James Manners, Pascal Tremblin, Nathan Luke Abraham, David Sing, and Krisztian Kohary. 
+Benjamin Drummond, Eric Hébrard, Nathan J. Mayne, Olivia Venot, **Robert J. Ridgway**, Quentin Changeat, Shang-Min Tsai, James Manners, Pascal Tremblin, Nathan Luke Abraham, David Sing, and Krisztian Kohary. 
 Implications of three-dimensional chemical transport in hot Jupiter atmospheres: Results from a consistently coupled chemistry-radiation-hydrodynamics model. Astronomy & Astrophysics, 
 636:A68, April 2020. ISSN 0004-6361. doi:[10.1051/0004-6361/201937153](https://doi.org/10.1051/0004-6361/201937153)
 
@@ -33,7 +33,7 @@ Mineral dust increases the habitability of terrestrial planets but confounds bio
 Jake K. Eager, David J. Reichelt, Nathan J. Mayne, F. Hugo Lambert, Denis E. Sergeev, **Robert J. Ridgway**, James Manners, Ian A. Boutle, Timothy M. Lenton, and Krisztian Kohary. Implications of different stellar spectra for the climate of tidally locked Earth-like exoplanets. Astronomy & Astrophysics,
 639:A99, July 2020. ISSN 0004-6361. doi:[10.1051/0004-6361/202038089](https://doi.org/10.1051/0004-6361/202038089)
 
-
+Aurélien Falco, Pascal Tremblin, Sébastien Charnoz, **Robert J. Ridgway**, and Pierre-Olivier Lagage. Hydrogenated atmospheres of lava planets: Atmospheric structure and emission spectra. Astronomy & Astrophysics, 683:A194, March 2024. ISSN 0004-6361. doi:[10.1051/0004-6361/202347650](https://doi.org/10.1051/0004-6361/202347650)
 
 
 ## Talks and Conferences
