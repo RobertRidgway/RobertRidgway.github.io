@@ -2,7 +2,7 @@
 
 ## CV
 
-Click [here](https://RobertRidgway.github.io/CV/robert_ridgway_cv.pdf) to download Robert Ridgway's Academic CV.
+Click [here](https://RobertRidgway.github.io/CV/Academic/robert_ridgway_cv.pdf) to download Robert Ridgway's Academic CV.
 
 ## Education
 
@@ -14,7 +14,7 @@ BSc (Honours) in Astrophysics, First Class Honours, University of Calgary, 2011-
 
 ## First Author Publications
 
-**Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, James Manners, Francis H. Lambert, Marrick Braam, Benjamin Drummond, Eric H\ebrard, Paul I. Palmer, and Krisztian Kohary.
+**Robert J. Ridgway**, Maria Zamyatina, Nathan J. Mayne, James Manners, Francis H. Lambert, Marrick Braam, Benjamin Drummond, Eric Hébrard, Paul I. Palmer, and Krisztian Kohary.
 3D modelling of the impact of stellar activity on tidally-locked terrestrial exoplanets: atmospheric composition and habitability, Monthly Notices of the Royal Astronomical Society, 518, 2472, November 2022, ISSN 0035-8711, doi:[10.1093/mnras/stac3105](https://doi.org/10.1093/mnras/stac3105)
 
 ## Co-Author Publications
@@ -33,8 +33,11 @@ Mineral dust increases the habitability of terrestrial planets but confounds bio
 Jake K. Eager, David J. Reichelt, Nathan J. Mayne, F. Hugo Lambert, Denis E. Sergeev, **Robert J. Ridgway**, James Manners, Ian A. Boutle, Timothy M. Lenton, and Krisztian Kohary. Implications of different stellar spectra for the climate of tidally locked Earth-like exoplanets. Astronomy & Astrophysics,
 639:A99, July 2020. ISSN 0004-6361. doi:[10.1051/0004-6361/202038089](https://doi.org/10.1051/0004-6361/202038089)
 
-Aurélien Falco, Pascal Tremblin, Sébastien Charnoz, **Robert J. Ridgway**, and Pierre-Olivier Lagage. Hydrogenated atmospheres of lava planets: Atmospheric structure and emission spectra. Astronomy & Astrophysics, 683:A194, March 2024. ISSN 0004-6361. doi:[10.1051/0004-6361/202347650](https://doi.org/10.1051/0004-6361/202347650)
+Aurélien Falco, Pascal Tremblin, Sébastien Charnoz, **Robert J. Ridgway**, and Pierre-Olivier Lagage. 
+Hydrogenated atmospheres of lava planets: Atmospheric structure and emission spectra. Astronomy & Astrophysics, 683:A194, March 2024. ISSN 0004-6361. doi:[10.1051/0004-6361/202347650](https://doi.org/10.1051/0004-6361/202347650)
 
+Jake K Eager-Nash, Stuart J Daines, James W McDermott, Peter Andrews, Lucy A Grain, James Bishop, Aaron A Rogers, Jack W G Smith, Chadiga Khalek, Thomas J Boxer, Mei Ting Mak, **Robert J Ridgway**, Eric Hébrard, F Hugo Lambert, Timothy M Lenton, Nathan J Mayne
+Simulating biosignatures from pre-oxygen photosynthesizing life on TRAPPIST-1e. Monthly Notices of the Royal Astronomical Society, Volume 531, Issue 1, June 2024, Pages 468–494, https://doi.org/10.1093/mnras/stae1142
 
 ## Talks and Conferences
 
